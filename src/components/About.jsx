@@ -51,7 +51,7 @@ const About = () => {
                       <Github size={20} />
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/qazi-ahmad-b4124b203"
+                      href="https://www.linkedin.com/in/qaziahmad/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-gray-400 hover:text-white transition-colors duration-300"

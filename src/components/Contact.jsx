@@ -112,7 +112,7 @@ const Contact = () => {
                 <div>
                   <p className="text-gray-400">LinkedIn</p>
                   <p className="text-white font-medium truncate max-w-xs">
-                    linkedin.com/in/qazi-ahmad-b4124b203
+                    https://www.linkedin.com/in/qaziahmad/
                   </p>
                 </div>
               </motion.div>

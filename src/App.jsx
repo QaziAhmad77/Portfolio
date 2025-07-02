@@ -35,7 +35,7 @@ export default function App() {
           className="text-indigo-500 text-4xl font-bold"
         >
           <span className="text-indigo-500">&lt;</span>
-          QA
+          Qazi Ahmad
           <span className="text-indigo-500">/&gt;</span>
         </motion.div>
       </div>
